@@ -51,8 +51,8 @@
 
 ## ✨ About page
 
-<div align="center" style="display: flex;">
-  <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongjin2427&hide=java&layout=compact&bg_color=E4F9F5&title_color=1B262C&text_color=3282B8" />
+<div align="center" style="display: flex; align-items: flex-start;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seongjin2427&hide=java&layout=compact&bg_color=E4F9F5&title_color=1B262C&text_color=3282B8" />
   <span>&nbsp;&nbsp;&nbsp;</span>
-  <img width="400px" height="200px" src="https://github-readme-stats.vercel.app/api?username=seongjin2427&show_icons=true&theme=radical&hide_border=true&bg_color=E4F9F5&title_color=1B262C&text_color=3282B8&icon_color=3282B8" />
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=seongjin2427&show_icons=true&theme=radical&hide_border=true&bg_color=E4F9F5&title_color=1B262C&text_color=3282B8&icon_color=3282B8" />
 </div>
