@@ -41,13 +41,6 @@
   <div>
 </div>
 
-## 😀 About Me
-
-- 🚩 올해 4월말 부터 프론트엔드 공부를 본격적으로 Start!
-- 👍 공부하면 할수록 공부할 게 더 많아지고 있지만 그게 싫진 않습니다 재밌어요!
-- 😊 좋은 사람들과 함께 성장하고 싶어요!
-- 📔 더 깔끔한 코드, 더 효율적인 코드를 작성하고 싶어요
-
 ## ✨ About page
 
 <div align="center" style="display: flex; align-items: flex-start;">
